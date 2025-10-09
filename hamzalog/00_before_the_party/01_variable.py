@@ -75,3 +75,7 @@ bool
 gariban_bool = True
 
 print(gariban_bool)
+
+
+# Eğer üşenmezsem ileride veri tiplerinin kullanımı ile alakalı detaylı bir dosya oluşturacağım. 
+# Bu dosya sadece veri tipi nedir sorusuna cevap olarak hazırlanmıştır.
