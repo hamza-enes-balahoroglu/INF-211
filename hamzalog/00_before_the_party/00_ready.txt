@@ -1,0 +1,11 @@
+Selam sana eey INF211 mağduru!
+
+Bu dosya içinde temel kavramlardan kısaca bahsedeceğim. Basitçe değişken nedirden, input()/prin() fonksiyonlarından ve kodlama stillerinden (PEP8, değişken isimlendirme, indent yapısı) bahsedeceğim. 
+
+Bu satırları okumadan evvel bilgisayarınıza en az 1 ide ve 1 python sürümü kurduğunuzu var sayıyorum efendim.
+
+\hamza_log klasöründe benim python çalışırken tuttuğum notlar sizlerle olacak. Bu klasörde (\hamza_log\00_before_the_party) yazanlar size basit gelebilir ama yine de okumanızı tavsiye ederim.
+
+Şunu da eklemek isterim ki bir yazılımcı için en kıymetli şey yazdığı kodların deposudur. Küçük büyük demeden yazdığınız kodları ### DÜZENLİ ### şekilde  saklamanızı öneririm.
+
+Yardımımın dokunması dileği ile başarılar dilerim efendim.
