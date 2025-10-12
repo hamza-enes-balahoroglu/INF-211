@@ -27,7 +27,7 @@ False
 
 girdi = input("Parantezli ifade girin :")
 
-hafiza = ""
+hafiza = " "
 
 sonuc = True
 
@@ -36,23 +36,21 @@ for i in girdi:
         hafiza += i
         pass
     elif i in ")}]":
-        if hafiza != "":
-            if i==")" and hafiza[-1] == "(":
-                hafiza = hafiza[0:-1]
-                pass
-            elif i=="]" and hafiza[-1] == "[":
-                hafiza = hafiza[0:-1]
-                pass
-            elif i=="}" and hafiza[-1] == "{":
-                hafiza = hafiza[0:-1]
-                pass
-            else:
-                sonuc = False
-            break
-        pass
+        if i==")" and hafiza[-1] == "(":
+            hafiza = hafiza[0:-1]
+            pass
+        elif i=="]" and hafiza[-1] == "[":
+            hafiza = hafiza[0:-1]
+            pass
+        elif i=="}" and hafiza[-1] == "{":
+            hafiza = hafiza[0:-1]
+            pass
+        else:
+            sonuc = False
+        break
     pass
 
-if hafiza != "":
+if hafiza != " ":
     sonuc = False
     pass
 
