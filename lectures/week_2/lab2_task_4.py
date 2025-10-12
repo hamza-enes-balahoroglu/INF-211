@@ -37,7 +37,6 @@ for i in girdi:
         pass
     elif i in ")}]":
         if hafiza != "":
-            
             if i==")" and hafiza[-1] == "(":
                 hafiza = hafiza[0:-1]
                 pass
@@ -48,7 +47,7 @@ for i in girdi:
                 hafiza = hafiza[0:-1]
                 pass
             else:
-                valid = False
+                sonuc = False
             break
         pass
     pass
