@@ -34,12 +34,15 @@ sonuc = True
 for i in girdi:
     
     if i in "({[":
+        # eger parantez açma elemanı varsa hafızada sakla.
         hafiza += i
         pass
     
     elif i in ")}]":
         
         if not hafiza:
+            # hafiza boşsa yani parantez açma elemanı yoksa
+            # o zaman parantez kapamaya gerek yoktur.
             sonuc = False
             break
     
@@ -47,11 +50,17 @@ for i in girdi:
         if (i == ")" and son == "(") or \
            (i == "]" and son == "[") or \
            (i == "}" and son == "{"):
+            # i' nin esi, son karakterse
+            # hafızadaki son karakteri sil.               
             hafiza = hafiza[:-1]
-            pass       
+            pass
+        else:
+            # eger i son karkterin esi değilse parantez hatası var.
+            sonuc = False     
     pass
 
 if hafiza != "":
+    # eger halen hafızada karakter varsa parantez hatası yapılmıştır.
     sonuc = False
     pass
 
