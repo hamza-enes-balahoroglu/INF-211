@@ -14,12 +14,12 @@ that number starting with index 0. As an example, first 7 Lucas numbers are: 2, 
 
 """
 
-n            = int(input("Number  : "))
-previous_val1 = 0
-previous_val2 = 0
-result       = 123
+n               = int(input("Number  : "))
+previous_val1   = 0
+previous_val2   = 0
+result          = 0
 
-if n<= 10**6 and n>=0:
+if  n>=0:
     for i in range(n+1):
         
         if i == 0:
