@@ -51,7 +51,7 @@ merhaba(my_name, my_age)
 
 
 """
-UPPER_CASE
+SCREAMING_SNAKE_CASE
 
     Tüm harfler büyük ve kelimelerin arasında alt çizgi var(_).
     Sabit değişmeyen ifadelerin tanımlanmasında kullanılır.
