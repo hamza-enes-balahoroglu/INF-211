@@ -1,0 +1,903 @@
+
+======== ROUND 1 ========
+Match: Auron vs Eanor
+Auron starting hand: [Fireball [damage 5], Forest Archer (2/3), Thunder Rider (3/3), Rookie Warrior (1/3), Holy Light [heal 3], Arcane Bolt [damage 3]]
+Eanor starting hand: [Shadow Bolt [damage 6], Lightning [damage 7], Blade Adept (2/2), Stone Guardian (1/5), Battle Cleric (2/5)]
+Auron played Holy Light [heal 3]
+Auron's Holy Light healed Auron for 3 (player HP now 11)
+Eanor played Shadow Bolt [damage 6]
+Eanor's Shadow Bolt directly hit Auron for 6 damage (player HP now 5)
+Auron played Fireball [damage 5]
+Auron's Fireball directly hit Eanor for 5 damage (player HP now 3)
+Eanor played Stone Guardian (1/5)
+Eanor's Stone Guardian directly hit Auron for 1 damage (player HP now 4)
+Auron played Forest Archer (2/3)
+Auron's Forest Archer attacked Eanor's Guardian Spirit for 2 damage (remaining 1)
+Eanor played Blade Adept (2/2)
+Eanor's Guardian Spirit attacked Auron's Forest Archer for 1 damage (remaining 2)
+Eanor's Stone Guardian attacked Auron's Forest Archer for 1 damage (remaining 1)
+Eanor's Blade Adept attacked Auron's Forest Archer for 2 damage (remaining 0)
+Auron played Arcane Bolt [damage 3]
+Auron's Arcane Bolt directly hit Eanor for 3 damage (player HP now 0)
+Match Result: Auron WINS
+Match: Mediv vs Shai
+Mediv starting hand: [Giant Shieldbearer (1/6), Frost Spear [damage 3], Flame Soldier (3/1), Arcane Blast [damage 4], Berserker (4/2)]
+Shai starting hand: [Heal [heal 4], Cave Brute (4/3), Meteor [damage 8], Sand Assassin (4/1), Steel Knight (3/3), Steel Knight (3/3)]
+Mediv played Arcane Blast [damage 4]
+Mediv's Arcane Blast directly hit Shai for 4 damage (player HP now 4)
+Mediv's Guardian Spirit directly hit Shai for 1 damage (player HP now 3)
+Shai played Sand Assassin (4/1)
+Shai's Sand Assassin attacked Mediv's Guardian Spirit for 4 damage (remaining 0)
+Mediv played Giant Shieldbearer (1/6)
+Mediv's Giant Shieldbearer attacked Shai's Sand Assassin for 1 damage (remaining 0)
+Shai played Meteor [damage 8]
+Shai's Meteor directly hit Mediv for 8 damage (player HP now 0)
+Match Result: Shai WINS
+Match: Rauth vs Xera
+Rauth starting hand: [Frost Sentinel (2/4), Rejuvenate [heal 7], Arcane Duelist (3/2), Samurai Veteran (3/4), Blessing [heal 6], Frost Sentinel (2/4)]
+Xera starting hand: [High Paladin (4/4), Novice Monk (1/4), Venom Hunter (3/2), Restoration [heal 5], Mend Wounds [heal 5], Arcane Bolt [damage 3]]
+Rauth played Frost Sentinel (2/4)
+Rauth's Frost Sentinel directly hit Xera for 2 damage (player HP now 6)
+Xera played Mend Wounds [heal 5]
+Xera's Mend Wounds healed Xera for 5 (player HP now 11)
+Rauth played Rejuvenate [heal 7]
+Rauth's Rejuvenate healed Rauth for 7 (player HP now 15)
+Xera played Novice Monk (1/4)
+Xera's Novice Monk attacked Rauth's Frost Sentinel for 1 damage (remaining 3)
+Rauth played Frost Sentinel (2/4)
+Rauth's Frost Sentinel attacked Xera's Novice Monk for 2 damage (remaining 2)
+Rauth's Frost Sentinel attacked Xera's Novice Monk for 2 damage (remaining 0)
+Xera played Venom Hunter (3/2)
+Xera's Venom Hunter attacked Rauth's Frost Sentinel for 3 damage (remaining 0)
+Rauth played Blessing [heal 6]
+Rauth's Blessing healed Rauth for 6 (player HP now 21)
+Rauth's Frost Sentinel attacked Xera's Venom Hunter for 2 damage (remaining 0)
+Xera played Arcane Bolt [damage 3]
+Xera's Arcane Bolt directly hit Rauth for 3 damage (player HP now 18)
+Rauth played Arcane Duelist (3/2)
+Rauth's Arcane Duelist directly hit Xera for 3 damage (player HP now 8)
+Xera played High Paladin (4/4)
+Xera's High Paladin attacked Rauth's Frost Sentinel for 4 damage (remaining 0)
+Rauth played Samurai Veteran (3/4)
+Rauth's Arcane Duelist attacked Xera's High Paladin for 3 damage (remaining 1)
+Rauth's Samurai Veteran attacked Xera's High Paladin for 3 damage (remaining 0)
+Xera played Restoration [heal 5]
+Xera's Restoration healed Xera for 5 (player HP now 13)
+Rauth's Samurai Veteran directly hit Xera for 3 damage (player HP now 10)
+Rauth's Arcane Duelist directly hit Xera for 3 damage (player HP now 7)
+Rauth's Samurai Veteran directly hit Xera for 3 damage (player HP now 4)
+Rauth's Arcane Duelist directly hit Xera for 3 damage (player HP now 1)
+Rauth's Samurai Veteran directly hit Xera for 3 damage (player HP now -2)
+Match Result: Rauth WINS
+
+======== ROUND 2 ========
+Match: Auron vs Rauth
+Auron starting hand: [Stone Guardian (1/5), Blessing [heal 6], Steel Knight (3/3), Fireball [damage 5], Sand Assassin (4/1), Arcane Bolt [damage 3]]
+Rauth starting hand: [Cave Brute (4/3), Venom Hunter (3/2), Arcane Duelist (3/2), Heal [heal 4], Restoration [heal 5], Cave Brute (4/3)]
+Auron played Blessing [heal 6]
+Auron's Blessing healed Auron for 6 (player HP now 14)
+Rauth played Arcane Duelist (3/2)
+Auron played Arcane Bolt [damage 3]
+Auron's Arcane Bolt directly hit Rauth for 3 damage (player HP now 5)
+Rauth played Cave Brute (4/3)
+Rauth's Cave Brute directly hit Auron for 4 damage (player HP now 10)
+Auron played Steel Knight (3/3)
+Auron's Steel Knight attacked Rauth's Arcane Duelist for 3 damage (remaining 0)
+Rauth played Restoration [heal 5]
+Rauth's Restoration healed Rauth for 5 (player HP now 10)
+Rauth's Cave Brute attacked Auron's Steel Knight for 4 damage (remaining 0)
+Auron played Stone Guardian (1/5)
+Auron's Stone Guardian attacked Rauth's Cave Brute for 1 damage (remaining 2)
+Rauth played Venom Hunter (3/2)
+Rauth's Cave Brute attacked Auron's Stone Guardian for 4 damage (remaining 1)
+Rauth's Venom Hunter attacked Auron's Stone Guardian for 3 damage (remaining 0)
+Auron played Sand Assassin (4/1)
+Auron's Sand Assassin attacked Rauth's Cave Brute for 4 damage (remaining 0)
+Rauth played Cave Brute (4/3)
+Rauth's Venom Hunter attacked Auron's Sand Assassin for 3 damage (remaining 0)
+Rauth's Cave Brute directly hit Auron for 4 damage (player HP now 6)
+Auron played Fireball [damage 5]
+Auron's Fireball directly hit Rauth for 5 damage (player HP now 5)
+Rauth played Heal [heal 4]
+Rauth's Heal healed Rauth for 4 (player HP now 9)
+Rauth's Cave Brute directly hit Auron for 4 damage (player HP now 2)
+Rauth's Venom Hunter directly hit Auron for 3 damage (player HP now -1)
+Rauth's Cave Brute directly hit Auron for 4 damage (player HP now -5)
+Match Result: Rauth WINS
+Match: Mediv vs Shai
+Mediv starting hand: [Forest Archer (2/3), Blade Adept (2/2), High Paladin (4/4), Rejuvenate [heal 7], Meteor [damage 8]]
+Shai starting hand: [Giant Shieldbearer (1/6), Thunder Rider (3/3), Novice Monk (1/4), Mend Wounds [heal 5], Holy Light [heal 3], Novice Monk (1/4)]
+Mediv played Meteor [damage 8]
+Mediv's Meteor directly hit Shai for 8 damage (player HP now 0)
+Mediv's Guardian Spirit directly hit Shai for 1 damage (player HP now -1)
+Match Result: Mediv WINS
+Match: Eanor vs Xera
+Eanor starting hand: [Frost Sentinel (2/4), Lightning [damage 7], Flame Soldier (3/1), Shadow Bolt [damage 6], Battle Cleric (2/5)]
+Xera starting hand: [Rookie Warrior (1/3), Frost Spear [damage 3], Arcane Blast [damage 4], Samurai Veteran (3/4), Berserker (4/2), Arcane Bolt [damage 3]]
+Eanor played Frost Sentinel (2/4)
+Eanor's Guardian Spirit directly hit Xera for 1 damage (player HP now 7)
+Eanor's Frost Sentinel directly hit Xera for 2 damage (player HP now 5)
+Xera played Frost Spear [damage 3]
+Xera's Frost Spear directly hit Eanor for 3 damage (player HP now 5)
+Eanor played Battle Cleric (2/5)
+Eanor's Frost Sentinel directly hit Xera for 2 damage (player HP now 3)
+Eanor's Battle Cleric directly hit Xera for 2 damage (player HP now 1)
+Xera played Samurai Veteran (3/4)
+Xera's Samurai Veteran attacked Eanor's Guardian Spirit for 3 damage (remaining 0)
+Eanor played Flame Soldier (3/1)
+Eanor's Frost Sentinel attacked Xera's Samurai Veteran for 2 damage (remaining 2)
+Eanor's Battle Cleric attacked Xera's Samurai Veteran for 2 damage (remaining 0)
+Eanor's Flame Soldier directly hit Xera for 3 damage (player HP now -2)
+Match Result: Eanor WINS
+
+======== ROUND 3 ========
+Match: Shai vs Xera
+Shai starting hand: [Battle Cleric (2/5), Arcane Blast [damage 4], Stone Guardian (1/5), Frost Spear [damage 3], Steel Knight (3/3), Battle Cleric (2/5)]
+Xera starting hand: [Heal [heal 4], Frost Sentinel (2/4), Arcane Duelist (3/2), High Paladin (4/4), Lightning [damage 7], Arcane Bolt [damage 3]]
+Shai played Battle Cleric (2/5)
+Shai's Battle Cleric directly hit Xera for 2 damage (player HP now 6)
+Xera played Lightning [damage 7]
+Xera's Lightning directly hit Shai for 7 damage (player HP now 1)
+Shai played Stone Guardian (1/5)
+Shai's Stone Guardian directly hit Xera for 1 damage (player HP now 5)
+Xera played Heal [heal 4]
+Xera's Heal healed Xera for 4 (player HP now 9)
+Shai played Steel Knight (3/3)
+Shai's Stone Guardian directly hit Xera for 1 damage (player HP now 8)
+Shai's Steel Knight directly hit Xera for 3 damage (player HP now 5)
+Xera played Frost Sentinel (2/4)
+Xera's Frost Sentinel attacked Shai's Battle Cleric for 2 damage (remaining 3)
+Shai played Frost Spear [damage 3]
+Shai's Frost Spear directly hit Xera for 3 damage (player HP now 2)
+Shai's Battle Cleric attacked Xera's Frost Sentinel for 2 damage (remaining 2)
+Shai's Stone Guardian attacked Xera's Frost Sentinel for 1 damage (remaining 1)
+Shai's Steel Knight attacked Xera's Frost Sentinel for 3 damage (remaining 0)
+Xera played High Paladin (4/4)
+Xera's High Paladin attacked Shai's Battle Cleric for 4 damage (remaining 0)
+Shai played Battle Cleric (2/5)
+Shai's Stone Guardian attacked Xera's High Paladin for 1 damage (remaining 3)
+Shai's Steel Knight attacked Xera's High Paladin for 3 damage (remaining 0)
+Shai's Battle Cleric directly hit Xera for 2 damage (player HP now 0)
+Match Result: Shai WINS
+Match: Eanor vs Rauth
+Eanor starting hand: [Meteor [damage 8], Berserker (4/2), Giant Shieldbearer (1/6), Flame Soldier (3/1), Mend Wounds [heal 5]]
+Rauth starting hand: [Venom Hunter (3/2), Forest Archer (2/3), Fireball [damage 5], Sand Assassin (4/1), Blessing [heal 6], Forest Archer (2/3)]
+Eanor played Flame Soldier (3/1)
+Eanor's Guardian Spirit directly hit Rauth for 1 damage (player HP now 7)
+Eanor's Flame Soldier directly hit Rauth for 3 damage (player HP now 4)
+Rauth played Venom Hunter (3/2)
+Rauth's Venom Hunter attacked Eanor's Guardian Spirit for 3 damage (remaining 0)
+Eanor played Giant Shieldbearer (1/6)
+Eanor's Flame Soldier attacked Rauth's Venom Hunter for 3 damage (remaining 0)
+Eanor's Giant Shieldbearer directly hit Rauth for 1 damage (player HP now 3)
+Rauth played Blessing [heal 6]
+Rauth's Blessing healed Rauth for 6 (player HP now 9)
+Eanor played Mend Wounds [heal 5]
+Eanor's Mend Wounds healed Eanor for 5 (player HP now 13)
+Eanor's Giant Shieldbearer directly hit Rauth for 1 damage (player HP now 8)
+Rauth played Sand Assassin (4/1)
+Rauth's Sand Assassin attacked Eanor's Flame Soldier for 4 damage (remaining 0)
+Eanor played Berserker (4/2)
+Eanor's Giant Shieldbearer attacked Rauth's Sand Assassin for 1 damage (remaining 0)
+Eanor's Berserker directly hit Rauth for 4 damage (player HP now 4)
+Rauth played Forest Archer (2/3)
+Rauth's Forest Archer attacked Eanor's Giant Shieldbearer for 2 damage (remaining 4)
+Eanor played Meteor [damage 8]
+Eanor's Meteor directly hit Rauth for 8 damage (player HP now -4)
+Eanor's Giant Shieldbearer attacked Rauth's Forest Archer for 1 damage (remaining 2)
+Eanor's Berserker attacked Rauth's Forest Archer for 4 damage (remaining 0)
+Match Result: Eanor WINS
+Match: Auron vs Mediv
+Auron starting hand: [Thunder Rider (3/3), Rejuvenate [heal 7], Shadow Bolt [damage 6], Cave Brute (4/3), Rookie Warrior (1/3), Arcane Bolt [damage 3]]
+Mediv starting hand: [Restoration [heal 5], Samurai Veteran (3/4), Novice Monk (1/4), Blade Adept (2/2), Holy Light [heal 3]]
+Auron played Cave Brute (4/3)
+Auron's Cave Brute attacked Mediv's Guardian Spirit for 4 damage (remaining 0)
+Mediv played Novice Monk (1/4)
+Mediv's Novice Monk attacked Auron's Cave Brute for 1 damage (remaining 2)
+Auron played Rejuvenate [heal 7]
+Auron's Rejuvenate healed Auron for 7 (player HP now 15)
+Auron's Cave Brute attacked Mediv's Novice Monk for 4 damage (remaining 0)
+Mediv played Holy Light [heal 3]
+Mediv's Holy Light healed Mediv for 3 (player HP now 11)
+Auron played Thunder Rider (3/3)
+Auron's Thunder Rider directly hit Mediv for 3 damage (player HP now 8)
+Mediv played Samurai Veteran (3/4)
+Mediv's Samurai Veteran attacked Auron's Cave Brute for 3 damage (remaining 0)
+Auron played Shadow Bolt [damage 6]
+Auron's Shadow Bolt directly hit Mediv for 6 damage (player HP now 2)
+Auron's Thunder Rider attacked Mediv's Samurai Veteran for 3 damage (remaining 1)
+Mediv played Restoration [heal 5]
+Mediv's Restoration healed Mediv for 5 (player HP now 7)
+Mediv's Samurai Veteran attacked Auron's Thunder Rider for 3 damage (remaining 0)
+Auron played Rookie Warrior (1/3)
+Auron's Rookie Warrior attacked Mediv's Samurai Veteran for 1 damage (remaining 0)
+Mediv played Blade Adept (2/2)
+Mediv's Blade Adept attacked Auron's Rookie Warrior for 2 damage (remaining 1)
+Auron played Arcane Bolt [damage 3]
+Auron's Arcane Bolt directly hit Mediv for 3 damage (player HP now 4)
+Auron's Rookie Warrior attacked Mediv's Blade Adept for 1 damage (remaining 1)
+Mediv's Blade Adept attacked Auron's Rookie Warrior for 2 damage (remaining 0)
+Mediv's Blade Adept directly hit Auron for 2 damage (player HP now 13)
+Mediv's Blade Adept directly hit Auron for 2 damage (player HP now 11)
+Mediv's Blade Adept directly hit Auron for 2 damage (player HP now 9)
+Mediv's Blade Adept directly hit Auron for 2 damage (player HP now 7)
+Match Result: DRAW
+
+======== ROUND 4 ========
+Match: Eanor vs Xera
+Eanor starting hand: [Blessing [heal 6], Sand Assassin (4/1), Rejuvenate [heal 7], High Paladin (4/4), Battle Cleric (2/5)]
+Xera starting hand: [Restoration [heal 5], Flame Soldier (3/1), Holy Light [heal 3], Berserker (4/2), Rookie Warrior (1/3), Arcane Bolt [damage 3]]
+Eanor played Battle Cleric (2/5)
+Eanor's Guardian Spirit directly hit Xera for 1 damage (player HP now 7)
+Eanor's Battle Cleric directly hit Xera for 2 damage (player HP now 5)
+Xera played Berserker (4/2)
+Xera's Berserker attacked Eanor's Guardian Spirit for 4 damage (remaining 0)
+Eanor played Sand Assassin (4/1)
+Eanor's Battle Cleric attacked Xera's Berserker for 2 damage (remaining 0)
+Eanor's Sand Assassin directly hit Xera for 4 damage (player HP now 1)
+Xera played Rookie Warrior (1/3)
+Xera's Rookie Warrior attacked Eanor's Battle Cleric for 1 damage (remaining 4)
+Eanor played Rejuvenate [heal 7]
+Eanor's Rejuvenate healed Eanor for 7 (player HP now 15)
+Eanor's Battle Cleric attacked Xera's Rookie Warrior for 2 damage (remaining 1)
+Eanor's Sand Assassin attacked Xera's Rookie Warrior for 4 damage (remaining 0)
+Xera played Restoration [heal 5]
+Xera's Restoration healed Xera for 5 (player HP now 6)
+Eanor played Blessing [heal 6]
+Eanor's Blessing healed Eanor for 6 (player HP now 21)
+Eanor's Sand Assassin directly hit Xera for 4 damage (player HP now 2)
+Xera played Flame Soldier (3/1)
+Xera's Flame Soldier attacked Eanor's Battle Cleric for 3 damage (remaining 1)
+Eanor played High Paladin (4/4)
+Eanor's Battle Cleric attacked Xera's Flame Soldier for 2 damage (remaining 0)
+Eanor's Sand Assassin directly hit Xera for 4 damage (player HP now -2)
+Eanor's High Paladin directly hit Xera for 4 damage (player HP now -6)
+Match Result: Eanor WINS
+Match: Rauth vs Auron
+Rauth starting hand: [Meteor [damage 8], Frost Sentinel (2/4), Fireball [damage 5], Cave Brute (4/3), Novice Monk (1/4), Novice Monk (1/4)]
+Auron starting hand: [Arcane Blast [damage 4], Lightning [damage 7], Arcane Duelist (3/2), Thunder Rider (3/3), Stone Guardian (1/5), Arcane Bolt [damage 3]]
+Rauth played Frost Sentinel (2/4)
+Rauth's Frost Sentinel directly hit Auron for 2 damage (player HP now 6)
+Auron played Stone Guardian (1/5)
+Auron's Stone Guardian attacked Rauth's Frost Sentinel for 1 damage (remaining 3)
+Rauth played Fireball [damage 5]
+Rauth's Fireball directly hit Auron for 5 damage (player HP now 1)
+Rauth's Frost Sentinel attacked Auron's Stone Guardian for 2 damage (remaining 3)
+Auron played Lightning [damage 7]
+Auron's Lightning directly hit Rauth for 7 damage (player HP now 1)
+Auron's Stone Guardian attacked Rauth's Frost Sentinel for 1 damage (remaining 2)
+Rauth played Novice Monk (1/4)
+Rauth's Frost Sentinel attacked Auron's Stone Guardian for 2 damage (remaining 1)
+Rauth's Novice Monk attacked Auron's Stone Guardian for 1 damage (remaining 0)
+Auron played Arcane Duelist (3/2)
+Auron's Arcane Duelist attacked Rauth's Frost Sentinel for 3 damage (remaining 0)
+Rauth played Novice Monk (1/4)
+Rauth's Novice Monk attacked Auron's Arcane Duelist for 1 damage (remaining 1)
+Rauth's Novice Monk attacked Auron's Arcane Duelist for 1 damage (remaining 0)
+Auron played Arcane Blast [damage 4]
+Auron's Arcane Blast directly hit Rauth for 4 damage (player HP now -3)
+Match Result: Auron WINS
+Match: Mediv vs Shai
+Mediv starting hand: [Samurai Veteran (3/4), Frost Spear [damage 3], Giant Shieldbearer (1/6), Venom Hunter (3/2), Heal [heal 4]]
+Shai starting hand: [Shadow Bolt [damage 6], Mend Wounds [heal 5], Blade Adept (2/2), Steel Knight (3/3), Forest Archer (2/3), Mend Wounds [heal 5]]
+Mediv played Samurai Veteran (3/4)
+Mediv's Guardian Spirit directly hit Shai for 1 damage (player HP now 7)
+Mediv's Samurai Veteran directly hit Shai for 3 damage (player HP now 4)
+Shai played Blade Adept (2/2)
+Shai's Blade Adept attacked Mediv's Guardian Spirit for 2 damage (remaining 1)
+Mediv played Venom Hunter (3/2)
+Mediv's Guardian Spirit attacked Shai's Blade Adept for 1 damage (remaining 1)
+Mediv's Samurai Veteran attacked Shai's Blade Adept for 3 damage (remaining 0)
+Mediv's Venom Hunter directly hit Shai for 3 damage (player HP now 1)
+Shai played Shadow Bolt [damage 6]
+Shai's Shadow Bolt directly hit Mediv for 6 damage (player HP now 2)
+Mediv played Giant Shieldbearer (1/6)
+Mediv's Samurai Veteran directly hit Shai for 3 damage (player HP now -2)
+Mediv's Venom Hunter directly hit Shai for 3 damage (player HP now -5)
+Mediv's Giant Shieldbearer directly hit Shai for 1 damage (player HP now -6)
+Match Result: Mediv WINS
+
+======== ROUND 5 ========
+Match: Xera vs Rauth
+Xera starting hand: [Blessing [heal 6], Meteor [damage 8], High Paladin (4/4), Giant Shieldbearer (1/6), Thunder Rider (3/3), Arcane Bolt [damage 3]]
+Rauth starting hand: [Arcane Blast [damage 4], Samurai Veteran (3/4), Sand Assassin (4/1), Holy Light [heal 3], Battle Cleric (2/5), Arcane Blast [damage 4]]
+Xera played Thunder Rider (3/3)
+Xera's Thunder Rider directly hit Rauth for 3 damage (player HP now 5)
+Rauth played Sand Assassin (4/1)
+Rauth's Sand Assassin attacked Xera's Thunder Rider for 4 damage (remaining 0)
+Xera played Giant Shieldbearer (1/6)
+Xera's Giant Shieldbearer attacked Rauth's Sand Assassin for 1 damage (remaining 0)
+Rauth played Arcane Blast [damage 4]
+Rauth's Arcane Blast directly hit Xera for 4 damage (player HP now 4)
+Xera played Meteor [damage 8]
+Xera's Meteor directly hit Rauth for 8 damage (player HP now -3)
+Match Result: Xera WINS
+Match: Eanor vs Mediv
+Eanor starting hand: [Cave Brute (4/3), Heal [heal 4], Flame Soldier (3/1), Venom Hunter (3/2), Fireball [damage 5]]
+Mediv starting hand: [Blade Adept (2/2), Restoration [heal 5], Novice Monk (1/4), Forest Archer (2/3), Frost Spear [damage 3]]
+Eanor played Cave Brute (4/3)
+Eanor's Guardian Spirit attacked Mediv's Guardian Spirit for 1 damage (remaining 2)
+Eanor's Cave Brute attacked Mediv's Guardian Spirit for 4 damage (remaining 0)
+Mediv played Blade Adept (2/2)
+Mediv's Blade Adept attacked Eanor's Guardian Spirit for 2 damage (remaining 1)
+Eanor played Fireball [damage 5]
+Eanor's Fireball directly hit Mediv for 5 damage (player HP now 3)
+Eanor's Guardian Spirit attacked Mediv's Blade Adept for 1 damage (remaining 1)
+Eanor's Cave Brute attacked Mediv's Blade Adept for 4 damage (remaining 0)
+Mediv played Forest Archer (2/3)
+Mediv's Forest Archer attacked Eanor's Guardian Spirit for 2 damage (remaining 0)
+Eanor played Venom Hunter (3/2)
+Eanor's Cave Brute attacked Mediv's Forest Archer for 4 damage (remaining 0)
+Eanor's Venom Hunter directly hit Mediv for 3 damage (player HP now 0)
+Match Result: Eanor WINS
+Match: Shai vs Auron
+Shai starting hand: [Rookie Warrior (1/3), Steel Knight (3/3), Rejuvenate [heal 7], Stone Guardian (1/5), Shadow Bolt [damage 6], Steel Knight (3/3)]
+Auron starting hand: [Frost Sentinel (2/4), Arcane Duelist (3/2), Berserker (4/2), Lightning [damage 7], Mend Wounds [heal 5], Arcane Bolt [damage 3]]
+Shai played Rejuvenate [heal 7]
+Shai's Rejuvenate healed Shai for 7 (player HP now 15)
+Auron played Lightning [damage 7]
+Auron's Lightning directly hit Shai for 7 damage (player HP now 8)
+Shai played Steel Knight (3/3)
+Auron played Mend Wounds [heal 5]
+Auron's Mend Wounds healed Auron for 5 (player HP now 13)
+Shai played Stone Guardian (1/5)
+Shai's Stone Guardian directly hit Auron for 1 damage (player HP now 12)
+Auron played Arcane Duelist (3/2)
+Shai played Shadow Bolt [damage 6]
+Shai's Shadow Bolt directly hit Auron for 6 damage (player HP now 6)
+Shai's Steel Knight attacked Auron's Arcane Duelist for 3 damage (remaining 0)
+Shai's Stone Guardian directly hit Auron for 1 damage (player HP now 5)
+Auron played Arcane Bolt [damage 3]
+Auron's Arcane Bolt directly hit Shai for 3 damage (player HP now 5)
+Shai played Rookie Warrior (1/3)
+Shai's Stone Guardian directly hit Auron for 1 damage (player HP now 4)
+Shai's Rookie Warrior directly hit Auron for 1 damage (player HP now 3)
+Auron played Berserker (4/2)
+Auron's Berserker attacked Shai's Steel Knight for 4 damage (remaining 0)
+Shai played Steel Knight (3/3)
+Shai's Stone Guardian attacked Auron's Berserker for 1 damage (remaining 1)
+Shai's Rookie Warrior attacked Auron's Berserker for 1 damage (remaining 0)
+Shai's Steel Knight directly hit Auron for 3 damage (player HP now 0)
+Match Result: Shai WINS
+
+======== ROUND 6 ========
+Match: Xera vs Auron
+Xera starting hand: [Thunder Rider (3/3), Rejuvenate [heal 7], Blessing [heal 6], Giant Shieldbearer (1/6), Blade Adept (2/2), Arcane Bolt [damage 3]]
+Auron starting hand: [Battle Cleric (2/5), Meteor [damage 8], Cave Brute (4/3), Flame Soldier (3/1), Restoration [heal 5], Arcane Bolt [damage 3]]
+Xera played Thunder Rider (3/3)
+Xera's Thunder Rider directly hit Auron for 3 damage (player HP now 5)
+Auron played Flame Soldier (3/1)
+Auron's Flame Soldier attacked Xera's Thunder Rider for 3 damage (remaining 0)
+Xera played Rejuvenate [heal 7]
+Xera's Rejuvenate healed Xera for 7 (player HP now 15)
+Auron played Meteor [damage 8]
+Auron's Meteor directly hit Xera for 8 damage (player HP now 7)
+Xera played Giant Shieldbearer (1/6)
+Xera's Giant Shieldbearer attacked Auron's Flame Soldier for 1 damage (remaining 0)
+Auron played Battle Cleric (2/5)
+Auron's Battle Cleric attacked Xera's Giant Shieldbearer for 2 damage (remaining 4)
+Xera played Blade Adept (2/2)
+Xera's Giant Shieldbearer attacked Auron's Battle Cleric for 1 damage (remaining 4)
+Xera's Blade Adept attacked Auron's Battle Cleric for 2 damage (remaining 2)
+Auron played Cave Brute (4/3)
+Auron's Battle Cleric attacked Xera's Giant Shieldbearer for 2 damage (remaining 2)
+Auron's Cave Brute attacked Xera's Giant Shieldbearer for 4 damage (remaining 0)
+Xera played Arcane Bolt [damage 3]
+Xera's Arcane Bolt directly hit Auron for 3 damage (player HP now 2)
+Xera's Blade Adept attacked Auron's Battle Cleric for 2 damage (remaining 0)
+Auron played Arcane Bolt [damage 3]
+Auron's Arcane Bolt directly hit Xera for 3 damage (player HP now 4)
+Auron's Cave Brute attacked Xera's Blade Adept for 4 damage (remaining 0)
+Xera played Blessing [heal 6]
+Xera's Blessing healed Xera for 6 (player HP now 10)
+Auron played Restoration [heal 5]
+Auron's Restoration healed Auron for 5 (player HP now 7)
+Auron's Cave Brute directly hit Xera for 4 damage (player HP now 6)
+Auron's Cave Brute directly hit Xera for 4 damage (player HP now 2)
+Auron's Cave Brute directly hit Xera for 4 damage (player HP now -2)
+Match Result: Auron WINS
+Match: Rauth vs Shai
+Rauth starting hand: [Shadow Bolt [damage 6], Holy Light [heal 3], Frost Sentinel (2/4), Forest Archer (2/3), Steel Knight (3/3), Shadow Bolt [damage 6]]
+Shai starting hand: [Stone Guardian (1/5), Novice Monk (1/4), Venom Hunter (3/2), Arcane Blast [damage 4], Heal [heal 4], Stone Guardian (1/5)]
+Rauth played Shadow Bolt [damage 6]
+Rauth's Shadow Bolt directly hit Shai for 6 damage (player HP now 2)
+Shai played Stone Guardian (1/5)
+Rauth played Frost Sentinel (2/4)
+Rauth's Frost Sentinel attacked Shai's Stone Guardian for 2 damage (remaining 3)
+Shai played Heal [heal 4]
+Shai's Heal healed Shai for 4 (player HP now 6)
+Shai's Stone Guardian attacked Rauth's Frost Sentinel for 1 damage (remaining 3)
+Rauth played Shadow Bolt [damage 6]
+Rauth's Shadow Bolt directly hit Shai for 6 damage (player HP now 0)
+Rauth's Frost Sentinel attacked Shai's Stone Guardian for 2 damage (remaining 1)
+Match Result: Rauth WINS
+Match: Mediv vs Eanor
+Mediv starting hand: [Sand Assassin (4/1), Rookie Warrior (1/3), Mend Wounds [heal 5], Frost Spear [damage 3], Arcane Duelist (3/2)]
+Eanor starting hand: [Berserker (4/2), High Paladin (4/4), Samurai Veteran (3/4), Lightning [damage 7], Fireball [damage 5]]
+Mediv played Sand Assassin (4/1)
+Mediv's Guardian Spirit attacked Eanor's Guardian Spirit for 1 damage (remaining 2)
+Mediv's Sand Assassin attacked Eanor's Guardian Spirit for 4 damage (remaining 0)
+Eanor played High Paladin (4/4)
+Eanor's High Paladin attacked Mediv's Guardian Spirit for 4 damage (remaining 0)
+Mediv played Mend Wounds [heal 5]
+Mediv's Mend Wounds healed Mediv for 5 (player HP now 13)
+Mediv's Sand Assassin attacked Eanor's High Paladin for 4 damage (remaining 0)
+Eanor played Fireball [damage 5]
+Eanor's Fireball directly hit Mediv for 5 damage (player HP now 8)
+Mediv played Arcane Duelist (3/2)
+Mediv's Arcane Duelist directly hit Eanor for 3 damage (player HP now 5)
+Eanor played Lightning [damage 7]
+Eanor's Lightning directly hit Mediv for 7 damage (player HP now 1)
+Mediv played Rookie Warrior (1/3)
+Mediv's Arcane Duelist directly hit Eanor for 3 damage (player HP now 2)
+Mediv's Rookie Warrior directly hit Eanor for 1 damage (player HP now 1)
+Eanor played Berserker (4/2)
+Eanor's Berserker attacked Mediv's Sand Assassin for 4 damage (remaining 0)
+Mediv played Frost Spear [damage 3]
+Mediv's Frost Spear directly hit Eanor for 3 damage (player HP now -2)
+Mediv's Arcane Duelist attacked Eanor's Berserker for 3 damage (remaining 0)
+Mediv's Rookie Warrior directly hit Eanor for 1 damage (player HP now -3)
+Match Result: Mediv WINS
+
+======== ROUND 7 ========
+Match: Auron vs Eanor
+Auron starting hand: [Rookie Warrior (1/3), Holy Light [heal 3], Cave Brute (4/3), High Paladin (4/4), Mend Wounds [heal 5], Arcane Bolt [damage 3]]
+Eanor starting hand: [Battle Cleric (2/5), Novice Monk (1/4), Restoration [heal 5], Thunder Rider (3/3), Lightning [damage 7]]
+Auron played Holy Light [heal 3]
+Auron's Holy Light healed Auron for 3 (player HP now 11)
+Eanor played Thunder Rider (3/3)
+Eanor's Thunder Rider directly hit Auron for 3 damage (player HP now 8)
+Auron played Mend Wounds [heal 5]
+Auron's Mend Wounds healed Auron for 5 (player HP now 13)
+Eanor played Battle Cleric (2/5)
+Eanor's Thunder Rider directly hit Auron for 3 damage (player HP now 10)
+Eanor's Battle Cleric directly hit Auron for 2 damage (player HP now 8)
+Auron played Arcane Bolt [damage 3]
+Auron's Arcane Bolt directly hit Eanor for 3 damage (player HP now 5)
+Eanor played Restoration [heal 5]
+Eanor's Restoration healed Eanor for 5 (player HP now 10)
+Eanor's Thunder Rider directly hit Auron for 3 damage (player HP now 5)
+Eanor's Battle Cleric directly hit Auron for 2 damage (player HP now 3)
+Auron played Cave Brute (4/3)
+Auron's Cave Brute attacked Eanor's Guardian Spirit for 4 damage (remaining 0)
+Eanor played Novice Monk (1/4)
+Eanor's Thunder Rider attacked Auron's Cave Brute for 3 damage (remaining 0)
+Eanor's Battle Cleric directly hit Auron for 2 damage (player HP now 1)
+Eanor's Novice Monk directly hit Auron for 1 damage (player HP now 0)
+Match Result: Eanor WINS
+Match: Mediv vs Shai
+Mediv starting hand: [Arcane Duelist (3/2), Shadow Bolt [damage 6], Samurai Veteran (3/4), Frost Spear [damage 3], Blade Adept (2/2)]
+Shai starting hand: [Meteor [damage 8], Heal [heal 4], Forest Archer (2/3), Stone Guardian (1/5), Giant Shieldbearer (1/6), Forest Archer (2/3)]
+Mediv played Arcane Duelist (3/2)
+Mediv's Guardian Spirit directly hit Shai for 1 damage (player HP now 7)
+Mediv's Arcane Duelist directly hit Shai for 3 damage (player HP now 4)
+Shai played Forest Archer (2/3)
+Shai's Forest Archer attacked Mediv's Guardian Spirit for 2 damage (remaining 1)
+Mediv played Samurai Veteran (3/4)
+Mediv's Guardian Spirit attacked Shai's Forest Archer for 1 damage (remaining 2)
+Mediv's Arcane Duelist attacked Shai's Forest Archer for 3 damage (remaining 0)
+Mediv's Samurai Veteran directly hit Shai for 3 damage (player HP now 1)
+Shai played Stone Guardian (1/5)
+Shai's Stone Guardian attacked Mediv's Guardian Spirit for 1 damage (remaining 0)
+Mediv played Blade Adept (2/2)
+Mediv's Arcane Duelist attacked Shai's Stone Guardian for 3 damage (remaining 2)
+Mediv's Samurai Veteran attacked Shai's Stone Guardian for 3 damage (remaining 0)
+Mediv's Blade Adept directly hit Shai for 2 damage (player HP now -1)
+Match Result: Mediv WINS
+Match: Rauth vs Xera
+Rauth starting hand: [Fireball [damage 5], Berserker (4/2), Venom Hunter (3/2), Flame Soldier (3/1), Rejuvenate [heal 7], Fireball [damage 5]]
+Xera starting hand: [Frost Sentinel (2/4), Sand Assassin (4/1), Blessing [heal 6], Steel Knight (3/3), Arcane Blast [damage 4], Arcane Bolt [damage 3]]
+Rauth played Fireball [damage 5]
+Rauth's Fireball directly hit Xera for 5 damage (player HP now 3)
+Xera played Sand Assassin (4/1)
+Rauth played Rejuvenate [heal 7]
+Rauth's Rejuvenate healed Rauth for 7 (player HP now 15)
+Xera played Steel Knight (3/3)
+Xera's Steel Knight directly hit Rauth for 3 damage (player HP now 12)
+Rauth played Berserker (4/2)
+Rauth's Berserker attacked Xera's Sand Assassin for 4 damage (remaining 0)
+Xera played Frost Sentinel (2/4)
+Xera's Steel Knight attacked Rauth's Berserker for 3 damage (remaining 0)
+Xera's Frost Sentinel directly hit Rauth for 2 damage (player HP now 10)
+Rauth played Flame Soldier (3/1)
+Rauth's Flame Soldier attacked Xera's Steel Knight for 3 damage (remaining 0)
+Xera played Blessing [heal 6]
+Xera's Blessing healed Xera for 6 (player HP now 9)
+Xera's Frost Sentinel attacked Rauth's Flame Soldier for 2 damage (remaining 0)
+Rauth played Venom Hunter (3/2)
+Rauth's Venom Hunter attacked Xera's Frost Sentinel for 3 damage (remaining 1)
+Xera played Arcane Blast [damage 4]
+Xera's Arcane Blast directly hit Rauth for 4 damage (player HP now 6)
+Xera's Frost Sentinel attacked Rauth's Venom Hunter for 2 damage (remaining 0)
+Rauth played Fireball [damage 5]
+Rauth's Fireball directly hit Xera for 5 damage (player HP now 4)
+Xera played Arcane Bolt [damage 3]
+Xera's Arcane Bolt directly hit Rauth for 3 damage (player HP now 3)
+Xera's Frost Sentinel directly hit Rauth for 2 damage (player HP now 1)
+Xera's Frost Sentinel directly hit Rauth for 2 damage (player HP now -1)
+Match Result: Xera WINS
+
+======== ROUND 8 ========
+Match: Shai vs Mediv
+Shai starting hand: [Steel Knight (3/3), Heal [heal 4], Venom Hunter (3/2), Flame Soldier (3/1), Blessing [heal 6], Steel Knight (3/3)]
+Mediv starting hand: [Berserker (4/2), Rejuvenate [heal 7], Arcane Duelist (3/2), Lightning [damage 7], Frost Sentinel (2/4)]
+Shai played Flame Soldier (3/1)
+Shai's Flame Soldier attacked Mediv's Guardian Spirit for 3 damage (remaining 0)
+Mediv played Arcane Duelist (3/2)
+Mediv's Arcane Duelist attacked Shai's Flame Soldier for 3 damage (remaining 0)
+Shai played Steel Knight (3/3)
+Shai's Steel Knight attacked Mediv's Arcane Duelist for 3 damage (remaining 0)
+Mediv played Lightning [damage 7]
+Mediv's Lightning directly hit Shai for 7 damage (player HP now 1)
+Shai played Blessing [heal 6]
+Shai's Blessing healed Shai for 6 (player HP now 7)
+Mediv played Frost Sentinel (2/4)
+Mediv's Frost Sentinel attacked Shai's Steel Knight for 2 damage (remaining 1)
+Shai played Steel Knight (3/3)
+Shai's Steel Knight attacked Mediv's Frost Sentinel for 3 damage (remaining 1)
+Shai's Steel Knight attacked Mediv's Frost Sentinel for 3 damage (remaining 0)
+Mediv played Berserker (4/2)
+Mediv's Berserker attacked Shai's Steel Knight for 4 damage (remaining 0)
+Shai played Heal [heal 4]
+Shai's Heal healed Shai for 4 (player HP now 11)
+Shai's Steel Knight attacked Mediv's Berserker for 3 damage (remaining 0)
+Mediv played Rejuvenate [heal 7]
+Mediv's Rejuvenate healed Mediv for 7 (player HP now 15)
+Shai played Venom Hunter (3/2)
+Shai's Venom Hunter directly hit Mediv for 3 damage (player HP now 12)
+Shai's Steel Knight directly hit Mediv for 3 damage (player HP now 9)
+Shai's Venom Hunter directly hit Mediv for 3 damage (player HP now 6)
+Shai's Steel Knight directly hit Mediv for 3 damage (player HP now 3)
+Shai's Venom Hunter directly hit Mediv for 3 damage (player HP now 0)
+Match Result: Shai WINS
+Match: Eanor vs Rauth
+Eanor starting hand: [Frost Spear [damage 3], Fireball [damage 5], Giant Shieldbearer (1/6), Samurai Veteran (3/4), Novice Monk (1/4)]
+Rauth starting hand: [Shadow Bolt [damage 6], Stone Guardian (1/5), Thunder Rider (3/3), Restoration [heal 5], Blade Adept (2/2), Blade Adept (2/2)]
+Eanor played Giant Shieldbearer (1/6)
+Eanor's Guardian Spirit directly hit Rauth for 1 damage (player HP now 7)
+Eanor's Giant Shieldbearer directly hit Rauth for 1 damage (player HP now 6)
+Rauth played Restoration [heal 5]
+Rauth's Restoration healed Rauth for 5 (player HP now 11)
+Eanor played Novice Monk (1/4)
+Eanor's Giant Shieldbearer directly hit Rauth for 1 damage (player HP now 10)
+Eanor's Novice Monk directly hit Rauth for 1 damage (player HP now 9)
+Rauth played Blade Adept (2/2)
+Rauth's Blade Adept attacked Eanor's Guardian Spirit for 2 damage (remaining 1)
+Eanor played Fireball [damage 5]
+Eanor's Fireball directly hit Rauth for 5 damage (player HP now 4)
+Eanor's Guardian Spirit attacked Rauth's Blade Adept for 1 damage (remaining 1)
+Eanor's Giant Shieldbearer attacked Rauth's Blade Adept for 1 damage (remaining 0)
+Eanor's Novice Monk directly hit Rauth for 1 damage (player HP now 3)
+Rauth played Shadow Bolt [damage 6]
+Rauth's Shadow Bolt directly hit Eanor for 6 damage (player HP now 2)
+Eanor played Samurai Veteran (3/4)
+Eanor's Giant Shieldbearer directly hit Rauth for 1 damage (player HP now 2)
+Eanor's Novice Monk directly hit Rauth for 1 damage (player HP now 1)
+Eanor's Samurai Veteran directly hit Rauth for 3 damage (player HP now -2)
+Match Result: Eanor WINS
+Match: Xera vs Auron
+Xera starting hand: [Meteor [damage 8], Holy Light [heal 3], Rookie Warrior (1/3), Forest Archer (2/3), Cave Brute (4/3), Arcane Bolt [damage 3]]
+Auron starting hand: [Sand Assassin (4/1), High Paladin (4/4), Arcane Blast [damage 4], Mend Wounds [heal 5], Battle Cleric (2/5), Arcane Bolt [damage 3]]
+Xera played Arcane Bolt [damage 3]
+Xera's Arcane Bolt directly hit Auron for 3 damage (player HP now 5)
+Auron played Arcane Bolt [damage 3]
+Auron's Arcane Bolt directly hit Xera for 3 damage (player HP now 5)
+Xera played Cave Brute (4/3)
+Auron played Sand Assassin (4/1)
+Xera played Forest Archer (2/3)
+Xera's Cave Brute attacked Auron's Sand Assassin for 4 damage (remaining 0)
+Xera's Forest Archer directly hit Auron for 2 damage (player HP now 3)
+Auron played High Paladin (4/4)
+Auron's High Paladin attacked Xera's Cave Brute for 4 damage (remaining 0)
+Xera played Holy Light [heal 3]
+Xera's Holy Light healed Xera for 3 (player HP now 8)
+Xera's Forest Archer attacked Auron's High Paladin for 2 damage (remaining 2)
+Auron played Battle Cleric (2/5)
+Auron's High Paladin attacked Xera's Forest Archer for 4 damage (remaining 0)
+Auron's Battle Cleric directly hit Xera for 2 damage (player HP now 6)
+Xera played Meteor [damage 8]
+Xera's Meteor directly hit Auron for 8 damage (player HP now -5)
+Match Result: Xera WINS
+
+======== ROUND 9 ========
+Match: Xera vs Shai
+Xera starting hand: [Cave Brute (4/3), Rookie Warrior (1/3), Fireball [damage 5], Blade Adept (2/2), Heal [heal 4], Arcane Bolt [damage 3]]
+Shai starting hand: [Arcane Duelist (3/2), Mend Wounds [heal 5], Shadow Bolt [damage 6], Forest Archer (2/3), Flame Soldier (3/1), Forest Archer (2/3)]
+Xera played Heal [heal 4]
+Xera's Heal healed Xera for 4 (player HP now 12)
+Shai played Shadow Bolt [damage 6]
+Shai's Shadow Bolt directly hit Xera for 6 damage (player HP now 6)
+Xera played Arcane Bolt [damage 3]
+Xera's Arcane Bolt directly hit Shai for 3 damage (player HP now 5)
+Shai played Mend Wounds [heal 5]
+Shai's Mend Wounds healed Shai for 5 (player HP now 10)
+Xera played Cave Brute (4/3)
+Shai played Forest Archer (2/3)
+Xera played Fireball [damage 5]
+Xera's Fireball directly hit Shai for 5 damage (player HP now 5)
+Xera's Cave Brute attacked Shai's Forest Archer for 4 damage (remaining 0)
+Shai played Flame Soldier (3/1)
+Shai's Flame Soldier attacked Xera's Cave Brute for 3 damage (remaining 0)
+Xera played Rookie Warrior (1/3)
+Xera's Rookie Warrior attacked Shai's Flame Soldier for 1 damage (remaining 0)
+Shai played Arcane Duelist (3/2)
+Shai's Arcane Duelist attacked Xera's Rookie Warrior for 3 damage (remaining 0)
+Xera played Blade Adept (2/2)
+Xera's Blade Adept attacked Shai's Arcane Duelist for 2 damage (remaining 0)
+Shai played Forest Archer (2/3)
+Shai's Forest Archer attacked Xera's Blade Adept for 2 damage (remaining 0)
+Shai's Forest Archer directly hit Xera for 2 damage (player HP now 4)
+Shai's Forest Archer directly hit Xera for 2 damage (player HP now 2)
+Shai's Forest Archer directly hit Xera for 2 damage (player HP now 0)
+Match Result: Shai WINS
+Match: Auron vs Rauth
+Auron starting hand: [Steel Knight (3/3), Arcane Blast [damage 4], Novice Monk (1/4), Rejuvenate [heal 7], High Paladin (4/4), Arcane Bolt [damage 3]]
+Rauth starting hand: [Frost Sentinel (2/4), Sand Assassin (4/1), Blessing [heal 6], Thunder Rider (3/3), Restoration [heal 5], Sand Assassin (4/1)]
+Auron played High Paladin (4/4)
+Auron's High Paladin directly hit Rauth for 4 damage (player HP now 4)
+Rauth played Sand Assassin (4/1)
+Rauth's Sand Assassin attacked Auron's High Paladin for 4 damage (remaining 0)
+Auron played Steel Knight (3/3)
+Auron's Steel Knight attacked Rauth's Sand Assassin for 3 damage (remaining 0)
+Rauth played Blessing [heal 6]
+Rauth's Blessing healed Rauth for 6 (player HP now 10)
+Auron played Novice Monk (1/4)
+Auron's Novice Monk directly hit Rauth for 1 damage (player HP now 9)
+Rauth played Frost Sentinel (2/4)
+Rauth's Frost Sentinel attacked Auron's Steel Knight for 2 damage (remaining 1)
+Auron played Arcane Bolt [damage 3]
+Auron's Arcane Bolt directly hit Rauth for 3 damage (player HP now 6)
+Auron's Steel Knight attacked Rauth's Frost Sentinel for 3 damage (remaining 1)
+Auron's Novice Monk attacked Rauth's Frost Sentinel for 1 damage (remaining 0)
+Rauth played Restoration [heal 5]
+Rauth's Restoration healed Rauth for 5 (player HP now 11)
+Auron played Arcane Blast [damage 4]
+Auron's Arcane Blast directly hit Rauth for 4 damage (player HP now 7)
+Auron's Novice Monk directly hit Rauth for 1 damage (player HP now 6)
+Rauth played Thunder Rider (3/3)
+Rauth's Thunder Rider attacked Auron's Steel Knight for 3 damage (remaining 0)
+Auron played Rejuvenate [heal 7]
+Auron's Rejuvenate healed Auron for 7 (player HP now 15)
+Auron's Novice Monk attacked Rauth's Thunder Rider for 1 damage (remaining 2)
+Rauth played Sand Assassin (4/1)
+Rauth's Thunder Rider attacked Auron's Novice Monk for 3 damage (remaining 1)
+Rauth's Sand Assassin attacked Auron's Novice Monk for 4 damage (remaining 0)
+Rauth's Thunder Rider directly hit Auron for 3 damage (player HP now 12)
+Rauth's Sand Assassin directly hit Auron for 4 damage (player HP now 8)
+Rauth's Thunder Rider directly hit Auron for 3 damage (player HP now 5)
+Rauth's Sand Assassin directly hit Auron for 4 damage (player HP now 1)
+Rauth's Thunder Rider directly hit Auron for 3 damage (player HP now -2)
+Rauth's Sand Assassin directly hit Auron for 4 damage (player HP now -6)
+Match Result: Rauth WINS
+Match: Eanor vs Mediv
+Eanor starting hand: [Giant Shieldbearer (1/6), Battle Cleric (2/5), Samurai Veteran (3/4), Lightning [damage 7], Holy Light [heal 3]]
+Mediv starting hand: [Venom Hunter (3/2), Frost Spear [damage 3], Berserker (4/2), Stone Guardian (1/5), Meteor [damage 8]]
+Eanor played Giant Shieldbearer (1/6)
+Eanor's Guardian Spirit attacked Mediv's Guardian Spirit for 1 damage (remaining 2)
+Eanor's Giant Shieldbearer attacked Mediv's Guardian Spirit for 1 damage (remaining 1)
+Mediv played Meteor [damage 8]
+Mediv's Meteor directly hit Eanor for 8 damage (player HP now 0)
+Mediv's Guardian Spirit attacked Eanor's Guardian Spirit for 1 damage (remaining 2)
+Match Result: Mediv WINS
+
+======== ROUND 10 ========
+Match: Auron vs Shai
+Auron starting hand: [Samurai Veteran (3/4), Meteor [damage 8], Shadow Bolt [damage 6], Sand Assassin (4/1), Venom Hunter (3/2), Arcane Bolt [damage 3]]
+Shai starting hand: [Frost Spear [damage 3], Lightning [damage 7], Rookie Warrior (1/3), Stone Guardian (1/5), Berserker (4/2), Stone Guardian (1/5)]
+Auron played Meteor [damage 8]
+Auron's Meteor directly hit Shai for 8 damage (player HP now 0)
+Match Result: Auron WINS
+Match: Xera vs Rauth
+Xera starting hand: [Rejuvenate [heal 7], Cave Brute (4/3), Steel Knight (3/3), Fireball [damage 5], Novice Monk (1/4), Arcane Bolt [damage 3]]
+Rauth starting hand: [Restoration [heal 5], Arcane Duelist (3/2), Arcane Blast [damage 4], High Paladin (4/4), Forest Archer (2/3), High Paladin (4/4)]
+Xera played Novice Monk (1/4)
+Xera's Novice Monk directly hit Rauth for 1 damage (player HP now 7)
+Rauth played Arcane Duelist (3/2)
+Rauth's Arcane Duelist attacked Xera's Novice Monk for 3 damage (remaining 1)
+Xera played Arcane Bolt [damage 3]
+Xera's Arcane Bolt directly hit Rauth for 3 damage (player HP now 4)
+Xera's Novice Monk attacked Rauth's Arcane Duelist for 1 damage (remaining 1)
+Rauth played Forest Archer (2/3)
+Rauth's Arcane Duelist attacked Xera's Novice Monk for 3 damage (remaining 0)
+Rauth's Forest Archer directly hit Xera for 2 damage (player HP now 6)
+Xera played Cave Brute (4/3)
+Xera's Cave Brute attacked Rauth's Arcane Duelist for 4 damage (remaining 0)
+Rauth played High Paladin (4/4)
+Rauth's Forest Archer attacked Xera's Cave Brute for 2 damage (remaining 1)
+Rauth's High Paladin attacked Xera's Cave Brute for 4 damage (remaining 0)
+Xera played Steel Knight (3/3)
+Xera's Steel Knight attacked Rauth's Forest Archer for 3 damage (remaining 0)
+Rauth played Restoration [heal 5]
+Rauth's Restoration healed Rauth for 5 (player HP now 9)
+Rauth's High Paladin attacked Xera's Steel Knight for 4 damage (remaining 0)
+Xera played Fireball [damage 5]
+Xera's Fireball directly hit Rauth for 5 damage (player HP now 4)
+Rauth played Arcane Blast [damage 4]
+Rauth's Arcane Blast directly hit Xera for 4 damage (player HP now 2)
+Xera played Rejuvenate [heal 7]
+Xera's Rejuvenate healed Xera for 7 (player HP now 9)
+Rauth played High Paladin (4/4)
+Rauth's High Paladin directly hit Xera for 4 damage (player HP now 5)
+Rauth's High Paladin directly hit Xera for 4 damage (player HP now 1)
+Rauth's High Paladin directly hit Xera for 4 damage (player HP now -3)
+Match Result: Rauth WINS
+Match: Eanor vs Mediv
+Eanor starting hand: [Frost Sentinel (2/4), Heal [heal 4], Giant Shieldbearer (1/6), Mend Wounds [heal 5], Thunder Rider (3/3)]
+Mediv starting hand: [Flame Soldier (3/1), Battle Cleric (2/5), Blade Adept (2/2), Holy Light [heal 3], Blessing [heal 6]]
+Eanor played Giant Shieldbearer (1/6)
+Eanor's Guardian Spirit attacked Mediv's Guardian Spirit for 1 damage (remaining 2)
+Eanor's Giant Shieldbearer attacked Mediv's Guardian Spirit for 1 damage (remaining 1)
+Mediv played Blade Adept (2/2)
+Mediv's Guardian Spirit attacked Eanor's Guardian Spirit for 1 damage (remaining 2)
+Mediv's Blade Adept attacked Eanor's Guardian Spirit for 2 damage (remaining 0)
+Eanor played Mend Wounds [heal 5]
+Eanor's Mend Wounds healed Eanor for 5 (player HP now 13)
+Eanor's Giant Shieldbearer attacked Mediv's Guardian Spirit for 1 damage (remaining 0)
+Mediv played Blessing [heal 6]
+Mediv's Blessing healed Mediv for 6 (player HP now 14)
+Mediv's Blade Adept attacked Eanor's Giant Shieldbearer for 2 damage (remaining 4)
+Eanor played Heal [heal 4]
+Eanor's Heal healed Eanor for 4 (player HP now 17)
+Eanor's Giant Shieldbearer attacked Mediv's Blade Adept for 1 damage (remaining 1)
+Mediv played Battle Cleric (2/5)
+Mediv's Blade Adept attacked Eanor's Giant Shieldbearer for 2 damage (remaining 2)
+Mediv's Battle Cleric attacked Eanor's Giant Shieldbearer for 2 damage (remaining 0)
+Eanor played Frost Sentinel (2/4)
+Eanor's Frost Sentinel attacked Mediv's Blade Adept for 2 damage (remaining 0)
+Mediv played Flame Soldier (3/1)
+Mediv's Battle Cleric attacked Eanor's Frost Sentinel for 2 damage (remaining 2)
+Mediv's Flame Soldier attacked Eanor's Frost Sentinel for 3 damage (remaining 0)
+Eanor played Thunder Rider (3/3)
+Eanor's Thunder Rider attacked Mediv's Battle Cleric for 3 damage (remaining 2)
+Mediv played Holy Light [heal 3]
+Mediv's Holy Light healed Mediv for 3 (player HP now 17)
+Mediv's Battle Cleric attacked Eanor's Thunder Rider for 2 damage (remaining 1)
+Mediv's Flame Soldier attacked Eanor's Thunder Rider for 3 damage (remaining 0)
+Mediv's Battle Cleric directly hit Eanor for 2 damage (player HP now 15)
+Mediv's Flame Soldier directly hit Eanor for 3 damage (player HP now 12)
+Mediv's Battle Cleric directly hit Eanor for 2 damage (player HP now 10)
+Mediv's Flame Soldier directly hit Eanor for 3 damage (player HP now 7)
+Mediv's Battle Cleric directly hit Eanor for 2 damage (player HP now 5)
+Mediv's Flame Soldier directly hit Eanor for 3 damage (player HP now 2)
+Mediv's Battle Cleric directly hit Eanor for 2 damage (player HP now 0)
+Mediv's Flame Soldier directly hit Eanor for 3 damage (player HP now -3)
+Match Result: Mediv WINS
+
+======== ROUND 11 ========
+Match: Rauth vs Xera
+Rauth starting hand: [Forest Archer (2/3), Samurai Veteran (3/4), Restoration [heal 5], Shadow Bolt [damage 6], Stone Guardian (1/5), Shadow Bolt [damage 6]]
+Xera starting hand: [Blade Adept (2/2), Frost Sentinel (2/4), Thunder Rider (3/3), Arcane Blast [damage 4], Blessing [heal 6], Arcane Bolt [damage 3]]
+Rauth played Restoration [heal 5]
+Rauth's Restoration healed Rauth for 5 (player HP now 13)
+Xera played Arcane Blast [damage 4]
+Xera's Arcane Blast directly hit Rauth for 4 damage (player HP now 9)
+Rauth played Shadow Bolt [damage 6]
+Rauth's Shadow Bolt directly hit Xera for 6 damage (player HP now 2)
+Xera played Arcane Bolt [damage 3]
+Xera's Arcane Bolt directly hit Rauth for 3 damage (player HP now 6)
+Rauth played Stone Guardian (1/5)
+Xera played Thunder Rider (3/3)
+Rauth played Samurai Veteran (3/4)
+Rauth's Stone Guardian attacked Xera's Thunder Rider for 1 damage (remaining 2)
+Rauth's Samurai Veteran attacked Xera's Thunder Rider for 3 damage (remaining 0)
+Xera played Frost Sentinel (2/4)
+Xera's Frost Sentinel attacked Rauth's Stone Guardian for 2 damage (remaining 3)
+Rauth played Shadow Bolt [damage 6]
+Rauth's Shadow Bolt directly hit Xera for 6 damage (player HP now -4)
+Rauth's Stone Guardian attacked Xera's Frost Sentinel for 1 damage (remaining 3)
+Rauth's Samurai Veteran attacked Xera's Frost Sentinel for 3 damage (remaining 0)
+Match Result: Rauth WINS
+Match: Auron vs Shai
+Auron starting hand: [Steel Knight (3/3), Lightning [damage 7], Giant Shieldbearer (1/6), Flame Soldier (3/1), Fireball [damage 5], Arcane Bolt [damage 3]]
+Shai starting hand: [Frost Spear [damage 3], Venom Hunter (3/2), High Paladin (4/4), Arcane Duelist (3/2), Meteor [damage 8], Frost Spear [damage 3]]
+Auron played Lightning [damage 7]
+Auron's Lightning directly hit Shai for 7 damage (player HP now 1)
+Shai played Arcane Duelist (3/2)
+Auron played Flame Soldier (3/1)
+Auron's Flame Soldier attacked Shai's Arcane Duelist for 3 damage (remaining 0)
+Shai played Meteor [damage 8]
+Shai's Meteor directly hit Auron for 8 damage (player HP now 0)
+Match Result: Shai WINS
+Match: Mediv vs Eanor
+Mediv starting hand: [Holy Light [heal 3], Cave Brute (4/3), Berserker (4/2), Battle Cleric (2/5), Mend Wounds [heal 5]]
+Eanor starting hand: [Rookie Warrior (1/3), Sand Assassin (4/1), Heal [heal 4], Rejuvenate [heal 7], Novice Monk (1/4)]
+Mediv played Holy Light [heal 3]
+Mediv's Holy Light healed Mediv for 3 (player HP now 11)
+Mediv's Guardian Spirit attacked Eanor's Guardian Spirit for 1 damage (remaining 2)
+Eanor played Rookie Warrior (1/3)
+Eanor's Guardian Spirit attacked Mediv's Guardian Spirit for 1 damage (remaining 2)
+Eanor's Rookie Warrior attacked Mediv's Guardian Spirit for 1 damage (remaining 1)
+Mediv played Cave Brute (4/3)
+Mediv's Guardian Spirit attacked Eanor's Guardian Spirit for 1 damage (remaining 1)
+Mediv's Cave Brute attacked Eanor's Guardian Spirit for 4 damage (remaining 0)
+Eanor played Sand Assassin (4/1)
+Eanor's Rookie Warrior attacked Mediv's Guardian Spirit for 1 damage (remaining 0)
+Eanor's Sand Assassin attacked Mediv's Cave Brute for 4 damage (remaining 0)
+Mediv played Berserker (4/2)
+Mediv's Berserker attacked Eanor's Rookie Warrior for 4 damage (remaining 0)
+Eanor played Novice Monk (1/4)
+Eanor's Sand Assassin attacked Mediv's Berserker for 4 damage (remaining 0)
+Eanor's Novice Monk directly hit Mediv for 1 damage (player HP now 10)
+Mediv played Mend Wounds [heal 5]
+Mediv's Mend Wounds healed Mediv for 5 (player HP now 15)
+Eanor played Heal [heal 4]
+Eanor's Heal healed Eanor for 4 (player HP now 12)
+Eanor's Novice Monk directly hit Mediv for 1 damage (player HP now 14)
+Mediv played Battle Cleric (2/5)
+Mediv's Battle Cleric attacked Eanor's Sand Assassin for 2 damage (remaining 0)
+Eanor played Rejuvenate [heal 7]
+Eanor's Rejuvenate healed Eanor for 7 (player HP now 19)
+Eanor's Novice Monk attacked Mediv's Battle Cleric for 1 damage (remaining 4)
+Mediv's Battle Cleric attacked Eanor's Novice Monk for 2 damage (remaining 2)
+Eanor's Novice Monk attacked Mediv's Battle Cleric for 1 damage (remaining 3)
+Mediv's Battle Cleric attacked Eanor's Novice Monk for 2 damage (remaining 0)
+Mediv's Battle Cleric directly hit Eanor for 2 damage (player HP now 17)
+Mediv's Battle Cleric directly hit Eanor for 2 damage (player HP now 15)
+Mediv's Battle Cleric directly hit Eanor for 2 damage (player HP now 13)
+Match Result: DRAW
+
+======== ROUND 12 ========
+Match: Rauth vs Xera
+Rauth starting hand: [Arcane Blast [damage 4], Steel Knight (3/3), Fireball [damage 5], High Paladin (4/4), Battle Cleric (2/5), Fireball [damage 5]]
+Xera starting hand: [Forest Archer (2/3), Sand Assassin (4/1), Holy Light [heal 3], Flame Soldier (3/1), Lightning [damage 7], Arcane Bolt [damage 3]]
+Rauth played Fireball [damage 5]
+Rauth's Fireball directly hit Xera for 5 damage (player HP now 3)
+Xera played Lightning [damage 7]
+Xera's Lightning directly hit Rauth for 7 damage (player HP now 1)
+Rauth played Fireball [damage 5]
+Rauth's Fireball directly hit Xera for 5 damage (player HP now -2)
+Match Result: Rauth WINS
+Match: Mediv vs Shai
+Mediv starting hand: [Rejuvenate [heal 7], Thunder Rider (3/3), Berserker (4/2), Cave Brute (4/3), Frost Spear [damage 3]]
+Shai starting hand: [Venom Hunter (3/2), Blessing [heal 6], Novice Monk (1/4), Shadow Bolt [damage 6], Rookie Warrior (1/3), Blessing [heal 6]]
+Mediv played Rejuvenate [heal 7]
+Mediv's Rejuvenate healed Mediv for 7 (player HP now 15)
+Mediv's Guardian Spirit directly hit Shai for 1 damage (player HP now 7)
+Shai played Rookie Warrior (1/3)
+Shai's Rookie Warrior attacked Mediv's Guardian Spirit for 1 damage (remaining 2)
+Mediv played Berserker (4/2)
+Mediv's Guardian Spirit attacked Shai's Rookie Warrior for 1 damage (remaining 2)
+Mediv's Berserker attacked Shai's Rookie Warrior for 4 damage (remaining 0)
+Shai played Shadow Bolt [damage 6]
+Shai's Shadow Bolt directly hit Mediv for 6 damage (player HP now 9)
+Mediv played Frost Spear [damage 3]
+Mediv's Frost Spear directly hit Shai for 3 damage (player HP now 4)
+Mediv's Berserker directly hit Shai for 4 damage (player HP now 0)
+Match Result: Mediv WINS
+Match: Eanor vs Auron
+Eanor starting hand: [Samurai Veteran (3/4), Meteor [damage 8], Frost Sentinel (2/4), Mend Wounds [heal 5], Blade Adept (2/2)]
+Auron starting hand: [Giant Shieldbearer (1/6), Heal [heal 4], Restoration [heal 5], Arcane Duelist (3/2), Stone Guardian (1/5), Arcane Bolt [damage 3]]
+Eanor played Mend Wounds [heal 5]
+Eanor's Mend Wounds healed Eanor for 5 (player HP now 13)
+Eanor's Guardian Spirit directly hit Auron for 1 damage (player HP now 7)
+Auron played Arcane Duelist (3/2)
+Auron's Arcane Duelist attacked Eanor's Guardian Spirit for 3 damage (remaining 0)
+Eanor played Frost Sentinel (2/4)
+Eanor's Frost Sentinel attacked Auron's Arcane Duelist for 2 damage (remaining 0)
+Auron played Stone Guardian (1/5)
+Auron's Stone Guardian attacked Eanor's Frost Sentinel for 1 damage (remaining 3)
+Eanor played Blade Adept (2/2)
+Eanor's Frost Sentinel attacked Auron's Stone Guardian for 2 damage (remaining 3)
+Eanor's Blade Adept attacked Auron's Stone Guardian for 2 damage (remaining 1)
+Auron played Heal [heal 4]
+Auron's Heal healed Auron for 4 (player HP now 11)
+Auron's Stone Guardian attacked Eanor's Frost Sentinel for 1 damage (remaining 2)
+Eanor played Samurai Veteran (3/4)
+Eanor's Frost Sentinel attacked Auron's Stone Guardian for 2 damage (remaining 0)
+Eanor's Blade Adept directly hit Auron for 2 damage (player HP now 9)
+Eanor's Samurai Veteran directly hit Auron for 3 damage (player HP now 6)
+Auron played Restoration [heal 5]
+Auron's Restoration healed Auron for 5 (player HP now 11)
+Eanor played Meteor [damage 8]
+Eanor's Meteor directly hit Auron for 8 damage (player HP now 3)
+Eanor's Blade Adept directly hit Auron for 2 damage (player HP now 1)
+Eanor's Samurai Veteran directly hit Auron for 3 damage (player HP now -2)
+Match Result: Eanor WINS
+
+======== FINAL SCORES ========
+Rauth: 16 points
+Xera: 0 points
+Mediv: 20 points
+Shai: 12 points
+Eanor: 18 points
+Auron: 6 points
